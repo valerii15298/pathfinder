@@ -2,7 +2,7 @@
 Find shortest roads using alghorithms
 
 ## Building:
-  make all
+  <code>make all</code>
 
 ## Example usage
-  ./pathfinder test.txt
+  <code>./pathfinder test.txt</code>
